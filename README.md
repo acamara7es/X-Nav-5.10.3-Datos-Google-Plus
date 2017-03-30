@@ -12,7 +12,7 @@ Al menos, habrás de realizar los siguientes cambios:
 - Muestra la información de localización geográfica, si ésta existiera.
 
 ## Resultado
-  [http://acamara7es.github.io/X-Nav-5.10.3-Datos-Google-Plus/googleplus-activities.html](http://acamara7es.github.io/X-Nav-5.10.3-Datos-Google-Plus/googleplus-activities.html)
+  [https://acamara7es.github.io/X-Nav-5.10.3-Datos-Google-Plus/googleplus-activities.html](https://acamara7es.github.io/X-Nav-5.10.3-Datos-Google-Plus/googleplus-activities.html)
 
 ## Comentarios y mejoras
 - La web incluye un formulario para introducir cualquier identificador o nombre de usuario de Google+ para obtener la información.
