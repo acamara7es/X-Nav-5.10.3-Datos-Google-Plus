@@ -1,0 +1,13 @@
+img, h4 {
+    display: inline;
+    margin: 0 10px;
+}
+li {
+    margin: 7px;
+    padding: 10px;
+    list-style-type: none;
+    border-style: solid;
+    border-color: #aaaaaa;
+    width: 600px;
+    border-width: thin;
+}
